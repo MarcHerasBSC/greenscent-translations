@@ -370,5 +370,12 @@
 
   "not-ar-compatible": "Not AR Compatible",
   "enter-ar": "Enter AR",
-  "exit-ar": "Exit AR"
+  "exit-ar": "Exit AR",
+
+  
+  "accessibility-section-title": "Accesibility",
+  "accessibility-text-1": "<p>We believe in creating inclusive experiences for all users. This Accessibility Guide is designed to help you make the most of our application and the immersive AR air quality game while utilizing accessibility features on your mobile device. Whether you rely on screen readers, need visual adjustments, or seek tactile enhancements, we've compiled simple instructions to ensure everyone can enjoy our content seamlessly. Explore the steps below to tailor your experience and let us know if there's anything more we can do to enhance accessibility for you.</p>",
+  "accessibility-text-2": "<h4>1. Open Accessibility Settings:</h4><li>iOS (iPhone):</li><li2>Go to 'Settings.' </li2><li2>Select 'Accessibility.' </li2><li>Android: </li><li2>Navigate to 'Settings.' </li2><li2>Choose 'Accessibility.' </li2>",
+  "accessibility-text-3": "<h4>2. Enable Accessibility Features:</h4> <li>Depending on the needs of the user, enable relevant features such as:</li> <li2>VoiceOver (Screen Reader):</li2> <li3>iOS: Settings > Accessibility > VoiceOver.</li3> <li3>Android: Settings > Accessibility > TalkBack.</li3> <li2>Magnification Gestures:</li2> <li3>iOS: Settings > Accessibility > Magnifier.</li3> <li3>Android: Settings > Accessibility > Magnification gestures.</li3> <li2>Subtitles & Captioning:</li2> <li3>iOS: Settings > Accessibility > Subtitles & Captioning.</li3> <li3>Android: Settings > Accessibility > Hearing > Subtitles.</li3>",
+  "accessibility-text-4": "<h4>3. Adjust Display Settings:</h4> <li>Make adjustments for visibility:</li> <li2>Text Size:</li2> <li3>iOS: Settings > Display & Brightness > Text Size.</li3> <li3>Android: Settings > Accessibility > Font Size.</li3> <li2>Color Inversion:</li2> <li3>iOS: Settings > Accessibility > Display & Text Size > Smart Invert.</li3>"
 }
