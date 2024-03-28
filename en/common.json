@@ -303,7 +303,7 @@
   "onboarding-slide3-title": "Play",
   "onboarding-slide4-title": "Ready?",
 
-  "onboardingcarousel-slide1": "the basic concepts of air quality and  how it affects our health",
+  "onboardingcarousel-slide1": "the basic concepts of air quality and how it affects our health",
   "onboardingcarousel-slide2": "immersive air quality maps with augmented reality technology",
   "onboardingcarousel-slide3": "have fun and assess your knowledge!",
   "onboardingcarousel-slide4": "Join the flock and let’s learn together!",
@@ -311,12 +311,12 @@
   "onboarding-finished-button": "BEGIN THE ADVENTURE",
 
   "vr-legend-lesson3-title": "What we can’t see",
-  "vr-legend-lesson7-title": "AQI map",
+  "vr-legend-lesson7-title": "AQI map Europe",
   "vr-legend-lesson8-title": "AQI map Barcelona",
 
   "vr-legend-lesson3-text": "Although sometimes we can see particles polluting the air, like black exhaust fumes and dust, most air pollutants are so small that we can’t see them with the naked eye but only using a microscope. Even on a seemingly clear day, the air quality can be poor. The pollutants found in the air can be inhaled, affecting our health, as well as have a negative effect on the environment.",
-  "vr-legend-lesson7-text": "Maps showing the air quality index (AQI) in different locations can tell us how good the air quality is in each city or region. In this lesson, we will explore a map of the average AQI in Europe during autumn 2016.",
-  "vr-legend-lesson8-text": "Air quality can be better or worse in different streets within the same city, and can change rapidly according to the time of day. This depends on road traffic and on other sources of air pollutants (e.g. industrial areas). In this lesson, we explore the air quality index (AQI) in the city of Barcelona, Spain, shown at two different times on the same day. In the map, you will see how the air quality changes according to the time of day and the part of the city.",
+  "vr-legend-lesson7-text": "This is a map of the average AQI in Europe during autumn 2016. You can see how good the air quality was in each region based on the AQI colours. Explore the map and respond to the challenge questions.",
+  "vr-legend-lesson8-text": "This is a map of the AQI in the city of Barcelona, Spain at two different times on the same day. You can see how good the air quality changes based on the AQI colours. Explore the map and respond to the challenge questions.",
 
   "about-section1-title": "GreenAIR",
   "about-section2-title": "GreenSCENT",
