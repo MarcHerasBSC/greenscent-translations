@@ -100,20 +100,13 @@
   "lesson5-discoverdropdown-3-desc": "The most active period for Saharan dust travelling across Europe is spring. When dust clouds form in the air, they worsen air quality, and can potentially cause respiratory and cardiovascular diseases.",
   "lesson5-discoverdropdown-4-desc": "The diffusion of Saharan dust across faraway regions of the Earth is the perfect example that pollution has no boundaries. For this reason, many countries are joining forces to protect the environment and public health.", 
 
-  "challenge5-title": "Air pollution has no boundaries",
-
-  "lesson5-challenge-question1": "The wind, rain, and air patterns are the main natural sources of air pollution in Europe.",
-  "lesson5-challenge-question2": "Desert dust is the main natural source of air pollution in Europe.",
-  "lesson5-challenge-question3": "Saharan dust travels across Europe and the Atlantic ocean following wind patterns.",
-
-
   "lesson6-discovercarousel-slide1": "The AQI scale is divided into five categories: good (green), moderate (yellow), unhealthy for sensitive groups (orange), unhealthy (red), and extremely unhealthy (purple). The presence and amount of air pollutants changes during the day.",
   "lesson6-discovercarousel-slide2": "When the air contains very small quantities of pollutants, the air quality is good, so the AQI shows a green colour. On the contrary, when there are high quantities of pollutants in the air, the air quality is really bad and the AQI shows a purple colour.",
   "lesson6-discovercarousel-slide3": "The air is mostly clean when there are very few pollutants: there is no risk when we breathe or do outdoor activities. On the contrary, when there are many pollutants in the air it’s not clean: our health is at risk and we should avoid outdoor activities.",
   "lesson6-discovercarousel-slide4": "AQI is particularly useful for citizens and governments. By using the AQI, we can know the condition of the air and the environment. Citizens and governments can then take measures to protect their health.",
 
   "lesson6-discovercarousel-slide1-img-alt": "Lines of the colors of AQI with emoticons that move from happy to very unhealthy",
-  "lesson6-discovercarousel-slide2-img-alt": "Cilindre with particles that go from less with a happy emoji to very full with a very unhealthy emoji",
+  "lesson6-discovercarousel-slide2-img-alt": "Cylinder with particles that go from less with a happy emoji to very full with a very unhealthy emoji",
   "lesson6-discovercarousel-slide3-img-alt": "Magnifying glass with circles that represent particles",
   "lesson6-discovercarousel-slide4-img-alt": "Smiling girl and dog with the city behind",
 
@@ -146,7 +139,6 @@
   "lesson10-discovercarousel-slide2-img-alt": "Mountain with an airplane with the prohibited icon",
   "lesson10-discovercarousel-slide3-img-alt": "Huminized bird taking the plug out from electricity",
   "lesson10-discovercarousel-slide4-img-alt": "Phone with the AQI icon inside",
-
 
   "lesson11-discoverdropdown-1-title":"More trees, less cars!",
   "lesson11-discoverdropdown-2-title":"More renewable energy!",
@@ -181,7 +173,6 @@
 
   "challenge2-title": "Air pollution Challenge",
 
-
   "lesson2-challenge-question1": "Why are air pollutants dangerous for our health?",
 
   "lesson2-challenge-question1-choice1": "Because they cause respiratory and cardiovascular diseases.",
@@ -194,13 +185,17 @@
   "lesson2-challenge-question2-choice2": "Pollutants increase the clarity of a landscape.",
   "lesson2-challenge-question2-choice3": "Pollutants increase the acidity of land and water.",
 
-
   "lesson2-challenge-question3": "Which of the following is incorrect?",
 
   "lesson2-challenge-question3-choice1": "Air pollutants affect our health.",
   "lesson2-challenge-question3-choice2": "Air pollutants don’t affect animals, only humans.",
   "lesson2-challenge-question3-choice3": "Air pollutants worsen the quality of the air we breathe.",
+ 
+  "challenge3-title": "What we can’t see Challenge",
 
+  "lesson3-challenge-question1": "When a day is clear, the air quality is always good.",
+  "lesson3-challenge-question2": "Most pollutants in the air are too small to be seen with our eyes.",
+  "lesson3-challenge-question3": "Air pollution is an invisible threat to our health.",
 
   "challenge4-title": "A matter of habits Challenge",
 
@@ -208,8 +203,13 @@
   "lesson4-challenge-question2": "Cigarette smoke is the most important air pollution source.",
   "lesson4-challenge-question3": "Volcanoes and wildfires are natural sources of air pollutants.",
 
+  "challenge5-title": "Air pollution has no boundaries",
 
- "challenge6-title": "The Air Quality Index Challenge",
+  "lesson5-challenge-question1": "The wind, rain, and air patterns are the main natural sources of air pollution in Europe.",
+  "lesson5-challenge-question2": "Desert dust is the main natural source of air pollution in Europe.",
+  "lesson5-challenge-question3": "Saharan dust travels across Europe and the Atlantic ocean following wind patterns.",
+  
+  "challenge6-title": "The Air Quality Index Challenge",
 
   "lesson6-challenge-question1": "What does the Air Quality Index (AQI) show?",
 
@@ -217,13 +217,11 @@
   "lesson6-challenge-question1-choice2": "How good the visibility is.",
   "lesson6-challenge-question1-choice3": "How the weather is.",
 
-
   "lesson6-challenge-question2": "Which of the following is not correct?",
 
   "lesson6-challenge-question2-choice1": "When the air quality is good, the AQI is low.",
   "lesson6-challenge-question2-choice2": "When the air quality is bad, it appears green on the map.",
   "lesson6-challenge-question2-choice3": "When there are pollutants in the air, the AQI is high and air quality is poor.",
-
 
   "lesson6-challenge-question3": "How is the AQI useful for citizens?",
 
@@ -231,25 +229,23 @@
   "lesson6-challenge-question3-choice2": "It can help them plan their vacation.",
   "lesson6-challenge-question3-choice3": "It shows them what the temperature will be on that day.",
 
-  "challenge7-title": "The colours of air quality challenge",
+  "challenge7-title": "The colours of air quality Challenge",
 
  "lesson7-challenge-question1": "According to the map, the air quality was poor in many major cities, like Milan, Barcelona and Paris, during autumn 2016.",
  "lesson7-challenge-question2": "The air quality is at unhealthy levels in all of northern and western Europe, like the UK and Finland, so it is best to limit outdoor activities.",
  "lesson7-challenge-question3": "Northern Italy and some parts of eastern Europe, like Poland and Serbia, have the poorest air quality in Europe.",
 
-  "challenge8-title": "Comparing air quality challenge",
+  "challenge8-title": "Comparing air quality Challenge",
 
  "lesson8-challenge-question1": "The air quality is better in the afternoon, when there is less road traffic than in the morning.",
  "lesson8-challenge-question2": "It is better to exercise outdoors in the morning, as air quality is better.",
  "lesson8-challenge-question3": "Busy roads should be avoided in the morning, because of poor air quality.",
-
 
   "challenge9-title": "A risk to our health Challenge",
 
   "lesson9-challenge-question1": "Air pollution can cause lung and heart diseases.",
   "lesson9-challenge-question2": "Pregnant women are at particular risk when breathing polluted air.",
   "lesson9-challenge-question3": "Nature is the only source of air pollution.",
-
 
   "challenge10-title": "Actions we can take Challenge",
 
@@ -259,13 +255,11 @@
   "lesson10-challenge-question1-choice2": "Cars and other vehicles",
   "lesson10-challenge-question1-choice3": "Volcanic eruptions",
 
-
   "lesson10-challenge-question2": "What can you do to drastically reduce air pollution?",
 
   "lesson10-challenge-question2-choice1": "Avoid using cars: walk and cycle more instead.",
   "lesson10-challenge-question2-choice2": "Always prefer flights, they pollute the least.",
   "lesson10-challenge-question2-choice3": "Turn off the lights when you are not using them.",
-
 
   "lesson10-challenge-question3": "What can you do to protect yourself from air pollution?",
 
@@ -273,12 +267,13 @@
   "lesson10-challenge-question3-choice2": "Cycle everyday, even on days with poor air quality index.",
   "lesson10-challenge-question3-choice3": "Use a car more often.",
 
- "challenge11-title": "Cleaner air for all challenge",
+ "challenge11-title": "Cleaner air for all Challenge",
 
  "lesson11-challenge-question1": "Creating more green spaces in urban areas reduces air pollution.",
  "lesson11-challenge-question2": "Energy production and use does not affect air quality.",
  "lesson11-challenge-question3": "Even small local actions can help protect the health of people worldwide.",
 
+  
 
   "fail-result-description": "This is not the right answer, but don't worry! You can always try again, you can do it!",
   "success-result-description": "That's right! You are an air quality champion!",
@@ -296,7 +291,7 @@
   "home-button-label": "Home",
   "arexploration-button-label": "AR exploration",
   "profile-button-label": "My profile",
-  "accesibility-button-label": "Accesibility",
+  "accesibility-button-label": "Accessibility",
   "lang-change-button-label": "Change Language",
   "help-button-label": "Help",
   "about-button-label": "About",
