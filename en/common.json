@@ -385,5 +385,6 @@
   "exit-ar": "Exit AR",
 
   "challenge-show": "Show Challenge",
-  "challenge-hide": "Hide Challenge"
+  "challenge-hide": "Hide Challenge",
+  "focus-surface-warn-msg": "Find a flat surface to view the element"
 }
